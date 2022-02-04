@@ -1,0 +1,2 @@
+Manual testing
+Automated Testing
